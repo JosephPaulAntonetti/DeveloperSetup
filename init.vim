@@ -12,7 +12,6 @@ Plugin 'VundleVim/Vundle.vim' " Mandatory Vundle VIM Plugin
 Plugin 'vim-syntastic/syntastic' " Syntastic Syntax Checker
 Plugin 'jacoborus/tender.vim' " Tender Theme
 Plugin 'NLKNguyen/papercolor-theme' " Papercolor Theme
-Plugin 'Valloric/YouCompleteMe' " YouCompleteMe
 
 " End Vundle Setup
 call vundle#end()
